@@ -24,12 +24,3 @@ Currently a software engineer at **SICS.AI**; from **August 2026** I'll be part 
 <a href="https://huggingface.co/nsuprun"><img height="30" src="assets/connect-hf.png" alt="Hugging Face: nsuprun" /></a>
 <a href="https://instagram.com/nikita_suprun02"><img height="30" src="assets/connect-instagram.png" alt="Instagram: nikita_suprun02" /></a>
 <a href="https://suprun.ca/nikita"><img height="30" src="assets/connect-site.png" alt="Portfolio: suprun.ca" /></a>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaSuprun/NikitaSuprun/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/NikitaSuprun/NikitaSuprun/output/github-snake.svg" width="100%" />
-</picture>
-
-<!-- v1 -->
